@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👨‍💻 I'm a Full Stack Developer.
+- 🔭 I’m currently learning about Next.js.
+- 👬 I’m looking to collaborate on making Web Applications in MERN stack.
+- 😄 Pronouns: He/Him
