@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chirag412vijayvergiya" alt="chirag412vijayvergiya" /></a> </p>
 
-- 🔭 I’m currently working on [SOBUS](https://github.com/chirag412vijayvergiya/sobus)
+- 🎯 **Internship**: Currently working as a **Backend Developer Intern** at Kartavya Technology. 🚀
 
 - 🌱 I’m currently learning **blockchain development, focusing on Solidity and DApp creation with Web3.js.**
 
