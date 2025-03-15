@@ -22,7 +22,7 @@ Hi there! 👋 I'm Chirag, a passionate **Full-Stack Developer**, **Open-Source 
 
 ### 🛠️ **Tech Stack**  
 #### **Frameworks & Tools**  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
@@ -36,27 +36,35 @@ Hi there! 👋 I'm Chirag, a passionate **Full-Stack Developer**, **Open-Source 
 
 
 #### **Technologies**  
-![REST API](https://img.shields.io/badge/REST%20API-Enabled-brightgreen.svg)  
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)  
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)  
-![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)  
+<p align="left">
+  <img src="https://img.shields.io/badge/REST%20API-Enabled-brightgreen.svg" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" />
+</p>
 
 #### **Programming Languages**  
-![C++](https://img.shields.io/badge/C%2B%2B-20-lightgrey.svg)  
-![Python](https://img.shields.io/badge/Python-3.9-blue.svg)  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)  
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-20-lightgrey.svg" />
+  <img src="https://img.shields.io/badge/Python-3.9-blue.svg" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow.svg" />
+</p>
 
 #### **Testing & Development Tools**  
-![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)  
-![Supertest](https://img.shields.io/badge/Supertest-000?logo=testing-library&logoColor=white)  
-![Husky](https://img.shields.io/badge/Husky-2E8B57?logo=husky&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
+<p align="left">
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supertest-000?logo=testing-library&logoColor=white" />
+  <img src="https://img.shields.io/badge/Husky-2E8B57?logo=husky&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+</p>
 
 #### **Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white)  
-![Android Studio](https://img.shields.io/badge/Android%20Studio-2020.3.1-green.svg)  
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-2020.3.1-green.svg" />
+</p>
 
 ---
 
