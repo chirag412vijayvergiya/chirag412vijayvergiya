@@ -7,7 +7,7 @@ Hi there! 👋 I'm Chirag, a passionate **Full-Stack Developer**, **Open-Source 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chirag412vijayvergiya&label=Profile%20views&color=0e75b6&style=flat" alt="chirag412vijayvergiya" /> </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chirag412vijayvergiya&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chirag412vijayvergiya&theme=radical&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
