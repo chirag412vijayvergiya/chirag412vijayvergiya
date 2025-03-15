@@ -4,9 +4,12 @@ Hi there! 👋 I'm Chirag, a passionate **Full-Stack Developer**, **Open-Source 
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chirag412vijayvergiya&label=Profile%20views&color=0e75b6&style=flat" alt="chirag412vijayvergiya" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chirag412vijayvergiya&label=Profile%20views&color=0e75b6&style=flat" alt="chirag412vijayvergiya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chirag412vijayvergiya" alt="chirag412vijayvergiya" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chirag412vijayvergiya&theme=radical&column=4&no-frame=true&no-bg=true&rank=SECRET,S,AAA" alt="GitHub Trophies" />
+</p>
+
 
 ---
 
