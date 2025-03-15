@@ -22,15 +22,18 @@ Hi there! 👋 I'm Chirag, a passionate **Full-Stack Developer**, **Open-Source 
 
 ### 🛠️ **Tech Stack**  
 #### **Frameworks & Tools**  
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-![React.js](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
-![Express.js](https://img.shields.io/badge/Express.js-000?logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Express.js-000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+</p>
+
 
 #### **Technologies**  
 ![REST API](https://img.shields.io/badge/REST%20API-Enabled-brightgreen.svg)  
