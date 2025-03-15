@@ -1,4 +1,4 @@
-<h1 align="center">💻 Chirag Vijayvergiya | @chirag412vijayvergiya </h1>
+<h1 align="center" style="font-family: 'Courier New', monospace;">💻 Chirag Vijayvergiya | @chirag412vijayvergiya</h1>
 
 Hi there! 👋 I'm Chirag, a passionate **Full-Stack Developer**, **Open-Source Contributor**, and **Tech Enthusiast**. I’m currently pursuing a **B.Tech in Computer Engineering** at NMIMS, expected to graduate in **May 2026**. 🚀  
 
