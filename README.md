@@ -73,6 +73,7 @@ Hi there! 👋 I'm Chirag, a passionate **Full-Stack Developer**, **Open-Source 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=chirag412vijayvergiya&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" height="150">
 </p>
 
+<br><br>
 ---
 
 ### 📫 **Connect with Me**
