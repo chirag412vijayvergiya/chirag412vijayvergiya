@@ -68,19 +68,28 @@ Hi there! 👋 I'm Chirag, a passionate **Full-Stack Developer**, **Open-Source 
 
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag412vijayvergiya&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=chirag412vijayvergiya&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag412vijayvergiya&layout=compact&theme=radical" alt="Top Languages" width="48%">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=chirag412vijayvergiya&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+</p>
 
 ---
 
 ### 📫 **Connect with Me**
-[![🌐 Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge)](https://chirag-vijay.vercel.app/)  
-[![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-vijayvergiya-548635245/)  
-[![💻 LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/chiragvijayvergiya/)  
-[![📧 Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:chiragvijayvergiya412@gmail.com)  
+<p align="left">
+  <a href="https://chirag-vijay.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/chirag-vijayvergiya-548635245/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/chiragvijayvergiya/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="mailto:chiragvijayvergiya412@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
