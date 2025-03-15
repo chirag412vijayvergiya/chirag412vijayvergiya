@@ -68,16 +68,11 @@ Hi there! 👋 I'm Chirag, a passionate **Full-Stack Developer**, **Open-Source 
 
 ---
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag412vijayvergiya&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=chirag412vijayvergiya&show_icons=true&theme=radical" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag412vijayvergiya&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chirag412vijayvergiya&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
 
 ---
 
