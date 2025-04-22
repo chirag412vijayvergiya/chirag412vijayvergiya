@@ -91,7 +91,7 @@ Hi there! 👋 I'm Chirag, a passionate **Full-Stack Developer**, **Open-Source 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag412vijayvergiya&layout=compact&theme=radical" alt="Top Languages" width="45%" height="160">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=chirag412vijayvergiya&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" height="160">
-  <img align="centre" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulgurjar247&theme=radical" />
+  <img align="centre" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=chirag412vijayvergiya&theme=radical" />
 </p>
 
 
