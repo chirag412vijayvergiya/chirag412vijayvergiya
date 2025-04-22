@@ -97,7 +97,7 @@ Hi there! 👋 I'm Chirag, a passionate **Full-Stack Developer**, **Open-Source 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirag412vijayvergiya&theme=radical" alt="GitHub Streak" height="200"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chirag412vijayvergiya&theme=radical" alt="GitHub Streak" /></a>
 </p>
 
 
