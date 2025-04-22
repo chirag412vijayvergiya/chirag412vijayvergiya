@@ -89,7 +89,7 @@ Hi there! 👋 I'm Chirag, a passionate **Full-Stack Developer**, **Open-Source 
 ---
 
 
-### 🔥 GitHub Stats & Activity**
+### 🔥 **GitHub Stats & Activity**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag412vijayvergiya&layout=compact&theme=radical&langs_count=6" alt="Top Languages" height="160px"width="43%" />
