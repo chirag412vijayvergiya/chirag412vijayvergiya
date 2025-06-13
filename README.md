@@ -50,6 +50,7 @@ Hi there! 👋 I'm Chirag, a passionate **Full-Stack Developer**, **Open-Source 
   <img src="https://img.shields.io/badge/C%2B%2B-20-lightgrey.svg" />
   <img src="https://img.shields.io/badge/Python-3.9-blue.svg" />
   <img src="https://img.shields.io/badge/JavaScript-ES6-yellow.svg" />
+  <img src="https://img.shields.io/badge/TypeScript-4.9-blue.svg" />
 </p>
 
 #### **Testing & Development Tools**  
