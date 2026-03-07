@@ -14,7 +14,7 @@ Hi there! 👋 I'm Chirag, a passionate **Full-Stack Developer**, **Open-Source 
 
 - 🎯 **Internship**: Currently working as a **Power Intern** at Infosys Limited. 🚀
 
-- 🌱 I’m currently learning **Agentic AI (Langchain, Multimodality etc).**
+- 🌱 I’m Currently building **Agentic AI systems** using LangChain, LangGraph, and Multimodal AI.
 
 - 🤝 I’m looking to collaborate on **making real world projects.**
 
@@ -37,7 +37,7 @@ Hi there! 👋 I'm Chirag, a passionate **Full-Stack Developer**, **Open-Source 
 </p>
 
 
-### 🤖 **Agentic AI & AI Systems**
+#### **Agentic AI & AI Systems**
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-Agent%20Framework-00A67E?logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-Agent%20Workflows-purple" />
@@ -48,6 +48,10 @@ Hi there! 👋 I'm Chirag, a passionate **Full-Stack Developer**, **Open-Source 
   <img src="https://img.shields.io/badge/Tesseract-OCR-green" />
   <img src="https://img.shields.io/badge/Tool%20Calling-AI%20Agents-yellow" />
   <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-9cf" />
+  <img src="https://img.shields.io/badge/Vector%20Database-ChromaDB-blue" />
+  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-AI-red" />
+  <img src="https://img.shields.io/badge/ReAct%20Agents-Reasoning-green" />
+  <img src="https://img.shields.io/badge/FastAPI-AI%20Deployment-teal" />
 </p>
 
 
