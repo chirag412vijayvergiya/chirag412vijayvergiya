@@ -37,6 +37,20 @@ Hi there! 👋 I'm Chirag, a passionate **Full-Stack Developer**, **Open-Source 
 </p>
 
 
+### 🤖 **Agentic AI & AI Systems**
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-Agent%20Framework-00A67E?logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-Agent%20Workflows-purple" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-Autonomous%20Systems-blueviolet" />
+  <img src="https://img.shields.io/badge/Multimodal%20AI-Image%20%7C%20Audio%20%7C%20Text-orange" />
+  <img src="https://img.shields.io/badge/Ollama-Local%20LLM-black" />
+  <img src="https://img.shields.io/badge/Whisper-Speech%20Recognition-red" />
+  <img src="https://img.shields.io/badge/Tesseract-OCR-green" />
+  <img src="https://img.shields.io/badge/Tool%20Calling-AI%20Agents-yellow" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-9cf" />
+</p>
+
+
 #### **Technologies**  
 <p align="left">
   <img src="https://img.shields.io/badge/REST%20API-Enabled-brightgreen.svg" />
