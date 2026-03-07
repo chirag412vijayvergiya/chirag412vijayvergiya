@@ -1,6 +1,6 @@
 <h2 align="center" style="font-family: 'Courier New', monospace;">💻 Chirag Vijayvergiya | @chirag412vijayvergiya</h2>
 
-Hi there! 👋 I'm Chirag, a passionate **Full-Stack Developer**, **Open-Source Contributor**, and **Tech Enthusiast**. I’m currently pursuing a **B.Tech in Computer Engineering** at NMIMS, expected to graduate in **May 2026**. 🚀  
+Hi there! 👋 I'm Chirag, an aspiring **AI Engineer and Full-Stack Developer** passionate about building **Agentic AI systems, multimodal applications, and intelligent automation tools**. I'm currently pursuing a **B.Tech in Computer Engineering at NMIMS**, graduating in **May 2026**, and exploring how **LLMs, tools, and real-world systems** can work together to solve complex problems. 🚀
 
 ---
 
